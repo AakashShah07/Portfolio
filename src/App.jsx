@@ -36,7 +36,7 @@ const LandingPage = ({ showWelcome, setShowWelcome }) => {
                 <a href="https://flowbite.com/" className="hover:underline">
                   AaSky™
                 </a>
-                . All Rights Reserved.
+                . All Rights Reserved....
               </span>
             </center>
           </footer>
